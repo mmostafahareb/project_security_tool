@@ -1,1 +1,2 @@
 # project_security_tool
+This project is a tool that developers can use to run security checks on their own projects, including their codebase as well as their deployment runtime containers and the dependencies they use.
